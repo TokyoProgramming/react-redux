@@ -21,7 +21,10 @@ function App() {
   //     .catch((error) => {
   //       console.error('Error:', error);
   //     });
+
   // }, []);
+
+  //
 
   useEffect(() => {
     new Promise((res, rej) => {
